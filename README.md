@@ -2,7 +2,7 @@
 
 ![Banner Image](https://raw.githubusercontent.com/coelholabs/coelholabs/refs/heads/main/Repo_Cover.jpg)
 
-[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelholabs.github.io)
+[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://www.pixelcompile.com/)
 
 <h3 align="center">Hi there! My name is Francisco Coelho 👨‍💻</h3>
 <p align="center">
@@ -49,7 +49,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## 🎯 Featured Projects
 
-[![Portfolio Button](https://img.shields.io/badge/Portfolio-SPA%20Personal%20Website-E63946?style=for-the-badge)](https://github.com/coelholabs/coelholabs.github.io)
+[![Portfolio Button](https://img.shields.io/badge/Portfolio-SPA%20Personal%20Website-E63946?style=for-the-badge)](https://www.pixelcompile.com/en/resume)
 
 [![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon--Crawler-Java--based%20Game-E63946?style=for-the-badge)](https://github.com/coelholabs/dungeon_crawler_game)
 
@@ -65,7 +65,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 ## 📫 Contact & Info
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coelholabs/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coelho1@ua.pt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francisco.coelho@pixelcompile.com)
 [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://drive.google.com/uc?export=download&id=19GMW5mok3E_EGEAoVokeK-QXunM_4rlX)
 
 ## 🌐 Let's Connect
