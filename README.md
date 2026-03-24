@@ -1,12 +1,12 @@
 # 👋 Welcome to My Journey!  
 
-![Banner Image](https://raw.githubusercontent.com/coelhof12/coelhof12/refs/heads/main/Repo_Cover.jpg)
+![Banner Image](https://raw.githubusercontent.com/coelholabs/coelholabs/refs/heads/main/Repo_Cover.jpg)
 
-[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelhof12.github.io)
+[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://coelholabs.github.io)
 
 <h3 align="center">Hi there! My name is Francisco Coelho 👨‍💻</h3>
 <p align="center">
-  <a href="https://github.com/coelhof12">
+  <a href="https://github.com/coelholabs">
     <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=E63946&repeat=true">
   </a>
 </p>
@@ -49,17 +49,17 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 ## 🎯 Featured Projects
 
-[![Portfolio Button](https://img.shields.io/badge/Portfolio-SPA%20Personal%20Website-E63946?style=for-the-badge)](https://github.com/coelhof12/coelhof12.github.io)
+[![Portfolio Button](https://img.shields.io/badge/Portfolio-SPA%20Personal%20Website-E63946?style=for-the-badge)](https://github.com/coelholabs/coelholabs.github.io)
 
-[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon--Crawler-Java--based%20Game-E63946?style=for-the-badge)](https://github.com/coelhof12/dungeon_crawler_game)
+[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon--Crawler-Java--based%20Game-E63946?style=for-the-badge)](https://github.com/coelholabs/dungeon_crawler_game)
 
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=coelhof12&count_private=true&show_icons=true&hide=issues,contribs&hide_rank=true&hide_title=true&theme=dark&border_radius=10&title_color=E63946&icon_color=E63946" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coelholabs&count_private=true&show_icons=true&hide=issues,contribs&hide_rank=true&hide_title=true&theme=dark&border_radius=10&title_color=E63946&icon_color=E63946" alt="GitHub Stats" />
 </div>
 <div style="text-align: center; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhof12&layout=compact&theme=dark&bg_color=0d1117&title_color=E63946&icon_color=E63946&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelholabs&layout=compact&theme=dark&bg_color=0d1117&title_color=E63946&icon_color=E63946&border_radius=10" alt="Top Languages" />
 </div>
 
 ## 📫 Contact & Info
