@@ -93,7 +93,7 @@ Right now, I’m especially interested in opportunities where I can contribute t
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://ghstats.dev/api/card?username=leveretlogic&theme=dark" alt="GitHub Stats" />
 </p>
 
