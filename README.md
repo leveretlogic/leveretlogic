@@ -66,7 +66,7 @@ From a young age, I was fascinated by the potential of technology to transform i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leveretlogic/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francisco.coelho@pixelcompile.com)
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://drive.google.com/uc?export=download&id=19GMW5mok3E_EGEAoVokeK-QXunM_4rlX)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://drive.google.com/file/d/1yi3BoA_80qpBzyqcTqL2jY_eVYL8Zn0y/view?usp=share_link)
 
 ## 🌐 Let's Connect
 
