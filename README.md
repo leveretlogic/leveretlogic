@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-pixelcompile.com-E6692D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pixelcompile.com/)
 [![Resume](https://img.shields.io/badge/Resume-View%20Online-3A3A3A?style=for-the-badge&logo=readme&logoColor=white)](https://www.pixelcompile.com/pt/resume)
 
-<h3 align="center">Full-Stack Developer building internal tools, automation, and practical web systems</h3>
+<h3 align="center">Full-Stack Developer focused on internal tools, automation, and practical web systems</h3>
 
 <p align="center">
   <a href="https://github.com/leveretlogic">
@@ -14,10 +14,6 @@
 </p>
 
 ## About Me
-
-I’m a Full-Stack Developer based in Aveiro, Portugal, with a background in design and a strong focus on building useful software for real teams.
-
-My work is centered on internal tools, dashboards, automation workflows, and web platforms that reduce manual work, improve operational clarity, and create better user experiences.
 
 My current stack is mainly built around **React, TypeScript, Java, Spring Boot, Node.js, SQL, and infrastructure tooling**.
 
@@ -83,7 +79,7 @@ A public Java project that reflects part of my learning path and hands-on develo
 
 ## Current Direction
 
-Right now, I’m especially interested in opportunities where I can contribute to:
+I’m currently deepening my work in:
 
 - Full-stack product development
 - Internal platforms and operational tooling
@@ -103,7 +99,3 @@ Right now, I’m especially interested in opportunities where I can contribute t
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francisco.coelho@pixelcompile.com)
 [![Website](https://img.shields.io/badge/Website-E6692D?style=flat&logo=googlechrome&logoColor=white)](https://www.pixelcompile.com/)
 [![Resume](https://img.shields.io/badge/Resume-Online-3A3A3A?style=flat&logo=readme&logoColor=white)](https://www.pixelcompile.com/pt/resume)
-
-## Notes
-
-This repository powers the content and layout of my GitHub profile.
