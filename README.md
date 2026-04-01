@@ -1,73 +1,111 @@
-# 👋 Welcome to My Journey!  
+# Francisco Coelho
 
 ![Banner Image](https://raw.githubusercontent.com/leveretlogic/leveretlogic/refs/heads/main/Repo_Cover.jpg)
 
-[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-E63946?style=for-the-badge&logo=none&logoColor=white)](https://www.pixelcompile.com/)
+[![Website](https://img.shields.io/badge/Website-pixelcompile.com-E6692D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pixelcompile.com/)
+[![Resume](https://img.shields.io/badge/Resume-View%20Online-3A3A3A?style=for-the-badge&logo=readme&logoColor=white)](https://www.pixelcompile.com/pt/resume)
 
-<h3 align="center">Hi there! My name is Francisco Coelho 👨‍💻</h3>
+<h3 align="center">Full-Stack Developer building internal tools, automation, and practical web systems</h3>
+
 <p align="center">
   <a href="https://github.com/leveretlogic">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=E63946&repeat=true">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile;Internal+Tools+%26+Automation;React,+Java,+Spring+Boot,+TypeScript&font=Fira%20Code&center=true&width=700&height=50&duration=3500&pause=1200&color=E6692D&repeat=true">
   </a>
 </p>
 
-I’m currently developing a custom stock management system designed to meet my company’s unique needs. Although this project isn’t publicly accessible, I look forward to sharing updates and insights in the future.
+## About Me
 
-## 💡 The Concept
+I’m a Full-Stack Developer based in Aveiro, Portugal, with a background in design and a strong focus on building useful software for real teams.
 
-This repository powers the content and layout of my GitHub profile, showcasing highlights of my projects, skills, and contributions to the developer community.
+My work is centered on internal tools, dashboards, automation workflows, and web platforms that reduce manual work, improve operational clarity, and create better user experiences.
 
-## 🧑‍💻 About Me
+My current stack is mainly built around **React, TypeScript, Java, Spring Boot, Node.js, SQL, and infrastructure tooling**.
 
-I'm a Junior Full-Stack Developer transitioning from a background in design to building scalable and efficient web applications.
+## What I Focus On
 
-Based in Aveiro, Portugal, I am looking to make a positive impact through creative and sustainable tech solutions. Let's connect and build something amazing together!
+- Building internal tools and business systems
+- Creating automation workflows that improve reliability and reduce repetitive work
+- Developing practical full-stack web applications
+- Growing deeper in backend systems, infrastructure, and AI-enabled workflows
 
-## 🛠 Technologies & Tools
+## Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 🚀 What Drives Me
+### Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20APIs-3A3A3A?style=flat&logo=fastapi&logoColor=white)
 
-What excites me most about full stack development is the ability to build comprehensive solutions that span both the front-end and back-end. I thrive on creating applications that are not only functional but also user-friendly and visually appealing. Every project is an opportunity to solve problems, learn new technologies, and push the boundaries of what's possible.
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 
-## 🛤️ My Journey
+### Tools & Workflow
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-From a young age, I was fascinated by the potential of technology to transform ideas into reality. This curiosity led me to pursue a degree in Design from the University of Aveiro. During my studies, I was actively involved in various student organizations, holding positions such as Vice-President of the Academic Association and Member of the Pedagogical Council. These experiences honed my leadership and teamwork skills, preparing me for the collaborative nature of the tech industry.
+## Selected Work
 
-## 📚 Skills & Learning Goals
+### PixelCompile Website
+Business website and professional portfolio built to present services, case studies, and a clear professional identity.
 
+[![View Website](https://img.shields.io/badge/View-PixelCompile-E6692D?style=for-the-badge)](https://www.pixelcompile.com/)
 
-- **Currently Learning**: SQL and data manipulation libraries.
-- **Future Goals**: Expand my knowledge in cloud infrastructure, scalable architectures, and cybersecurity.
+### Homelab Infrastructure & Automation
+Container-based infrastructure focused on reliability, remote access, automation, backups, and service isolation.
 
-## 🎯 Featured Projects
+### Productivity Tracking & Internal Tools
+Operational systems designed to replace manual workflows, improve visibility, and support better decision-making.
 
-[![Portfolio Button](https://img.shields.io/badge/Portfolio-SPA%20Personal%20Website-E63946?style=for-the-badge)](https://www.pixelcompile.com/en/resume)
+[![Resume](https://img.shields.io/badge/View-Resume-3A3A3A?style=for-the-badge)](https://www.pixelcompile.com/pt/resume)
 
-[![Dungeon Crawler Button](https://img.shields.io/badge/Dungeon--Crawler-Java--based%20Game-E63946?style=for-the-badge)](https://github.com/leveretlogic/dungeon_crawler_game)
+### Java Project
+Public Java project currently featured on my GitHub.
 
-## 📊 GitHub Stats
+[![Dungeon Crawler](https://img.shields.io/badge/Dungeon--Crawler-Java%20Project-E6692D?style=for-the-badge)](https://github.com/leveretlogic/dungeon_crawler_game)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=leveretlogic&count_private=true&show_icons=true&hide=issues,contribs&hide_rank=true&hide_title=true&theme=dark&border_radius=10&title_color=E63946&icon_color=E63946" alt="GitHub Stats" />
-</div>
-<div style="text-align: center; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveretlogic&layout=compact&theme=dark&bg_color=0d1117&title_color=E63946&icon_color=E63946&border_radius=10" alt="Top Languages" />
-</div>
+## Current Direction
 
-## 📫 Contact & Info
+Right now, I’m especially interested in opportunities where I can contribute to:
+
+- Full-stack product development
+- Internal platforms and operational tooling
+- Automation and workflow improvement
+- Backend and API-focused systems
+- AI-enabled solutions with practical business value
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leveretlogic&show_icons=true&theme=dark&hide_border=false&border_radius=10&title_color=E6692D&icon_color=E6692D&text_color=E0E0E0&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveretlogic&layout=compact&theme=dark&hide_border=false&border_radius=10&title_color=E6692D&text_color=E0E0E0&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leveretlogic/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:francisco.coelho@pixelcompile.com)
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-white)](https://drive.google.com/file/d/1yi3BoA_80qpBzyqcTqL2jY_eVYL8Zn0y/view?usp=share_link)
+[![Website](https://img.shields.io/badge/Website-E6692D?style=flat&logo=googlechrome&logoColor=white)](https://www.pixelcompile.com/)
+[![Resume](https://img.shields.io/badge/Resume-Online-3A3A3A?style=flat&logo=readme&logoColor=white)](https://www.pixelcompile.com/pt/resume)
 
-## 🌐 Let's Connect
+## Notes
 
-I'm always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn or reach out via email. Let's build together!
+This repository powers the content and layout of my GitHub profile.
