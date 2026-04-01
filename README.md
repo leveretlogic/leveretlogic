@@ -94,11 +94,11 @@ Right now, I’m especially interested in opportunities where I can contribute t
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leveretlogic&show_icons=true&theme=dark&hide_border=false&border_radius=10&title_color=E6692D&icon_color=E6692D&text_color=E0E0E0&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://ghstats.dev/api/card?username=leveretlogic&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveretlogic&layout=compact&theme=dark&hide_border=false&border_radius=10&title_color=E6692D&text_color=E0E0E0&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/languages?username=leveretlogic&theme=dark" alt="Top Languages" />
 </p>
 
 ## Contact
