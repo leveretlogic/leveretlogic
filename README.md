@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/leveretlogic">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile;Internal+Tools+%26+Automation;React,+Java,+Spring+Boot,+TypeScript&font=Fira%20Code&center=true&width=700&height=50&duration=3500&pause=1200&color=E6692D&repeat=true">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Imagine,+Create+%26+Compile;Internal+Tools+%26+Automation;React,+Java,+Spring+Boot,+TypeScript&font=Fira%20Code&center=true&width=700&height=50&duration=3500&pause=1200&color=E6692D&repeat=true" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ My current stack is mainly built around **React, TypeScript, Java, Spring Boot, 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20APIs-3A3A3A?style=flat&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-3A3A3A?style=flat&logo=fastapi&logoColor=white)
 
 ### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -64,20 +64,22 @@ My current stack is mainly built around **React, TypeScript, Java, Spring Boot, 
 ### PixelCompile Website
 Business website and professional portfolio built to present services, case studies, and a clear professional identity.
 
-[![View Website](https://img.shields.io/badge/View-PixelCompile-E6692D?style=for-the-badge)](https://www.pixelcompile.com/)
+[![PixelCompile Website](https://img.shields.io/badge/Repo-PixelCompile%20Website-E6692D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leveretlogic/pixelcompile_portfolio)
 
-### Homelab Infrastructure & Automation
-Container-based infrastructure focused on reliability, remote access, automation, backups, and service isolation.
+### Homelab Infrastructure
+Public repository for my Proxmox-based homelab setup, focused on infrastructure, service isolation, automation, and operational reliability.
 
-### Productivity Tracking & Internal Tools
-Operational systems designed to replace manual workflows, improve visibility, and support better decision-making.
+[![Homelab Infrastructure](https://img.shields.io/badge/Repo-Homelab%20Infrastructure-E6692D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leveretlogic/proxmox_homelab_infrastructure)
 
-[![Resume](https://img.shields.io/badge/View-Resume-3A3A3A?style=for-the-badge)](https://www.pixelcompile.com/pt/resume)
+### Industrial Productivity Tracking
+Repository for a productivity tracking system aimed at improving visibility, structure, and operational monitoring.
 
-### Java Project
-Public Java project currently featured on my GitHub.
+[![Industrial Productivity Tracking](https://img.shields.io/badge/Repo-Industrial%20Productivity%20Tracking-E6692D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leveretlogic/industrial_productivity_tracking)
 
-[![Dungeon Crawler](https://img.shields.io/badge/Dungeon--Crawler-Java%20Project-E6692D?style=for-the-badge)](https://github.com/leveretlogic/dungeon_crawler_game)
+### Dungeon Crawler Game
+A public Java project that reflects part of my learning path and hands-on development practice.
+
+[![Dungeon Crawler Game](https://img.shields.io/badge/Repo-Dungeon%20Crawler%20Game-E6692D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leveretlogic/dungeon_crawler_game)
 
 ## Current Direction
 
