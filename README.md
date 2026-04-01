@@ -97,10 +97,6 @@ Right now, I’m especially interested in opportunities where I can contribute t
   <img src="https://ghstats.dev/api/card?username=leveretlogic&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/languages?username=leveretlogic&theme=dark" alt="Top Languages" />
-</p>
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leveretlogic/)
