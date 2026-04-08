@@ -57,6 +57,13 @@ My current stack is mainly built around **React, TypeScript, Java, Spring Boot, 
 
 ## Selected Work
 
+### Agent Mission Control
+Real-time operations dashboard for a 5-agent AI orchestration platform, with
+live session streaming, executive KPI tracking, budget guardrails, approval
+queues, and automated QA health checks.
+
+[![Agent Mission Control](https://img.shields.io/badge/Repo-MissionControl%20Dashboard-E6692D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leveretlogic/agent-mission-control)
+
 ### PixelCompile Website
 Business website and professional portfolio built to present services, case studies, and a clear professional identity.
 
