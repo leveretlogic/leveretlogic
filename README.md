@@ -1,5 +1,3 @@
-# Francisco Coelho
-
 ![Banner Image](https://raw.githubusercontent.com/leveretlogic/leveretlogic/refs/heads/main/Repo_Cover.jpg)
 
 [![Website](https://img.shields.io/badge/Website-pixelcompile.com-E6692D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pixelcompile.com/)
